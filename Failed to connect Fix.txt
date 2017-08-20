@@ -1,0 +1,6 @@
+Failed to connect to MySQL No route to host
+
+sudo firewall-cmd --permanent --zone=public --add-service=https
+
+
+Website wont load
